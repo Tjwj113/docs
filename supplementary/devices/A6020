@@ -1,0 +1,76 @@
+Lenovo Vibe k5 Plus (A6020)
+===========================
+
+It has an excellent screen,two acoustic boxes. Great for changes. There are many Roms available, TWRP for Android 7.1 and for the 8.1, ARM64
+
+Status
+------
+
+Halium
+^^^^^^
+
+No Work done far
+
+Distributions
+^^^^^^^^^^^^^
+
+The following entries are just a placeholder, exactly as this sentence.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Distribution
+     - Device Specific Files
+     - Kernel
+     - What works
+     - What doesn't work
+   * - LineageOS placeholder `device page placeholder <https://wiki.lineageos.org/devices/A6020>`_
+     - `android_device_placeholder <http://moto.shreps.fr/?dir=Lenovo%20Vibe%20K5%20%28A6020%29>`_
+     - `android_kernel_placeholder <https://github.com/nikitsharma15/Vegito-A6020>`_ based on vX.Y.Z
+     - By LineageOS everything is working
+     - Nothing
+   * - Ubports placeholder `device page placeholder <placeholder>`_
+     - `android_device_placeholder <placeholder>`_
+     - `android_kernel_placeholder <placeholder>`_ based on vX.Y.Z
+     - ?
+     - ?
+
+
+Kernel & Hardware
+^^^^^^^^^^^^^^^^^
+
+Mainline (V. 3.10.108)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vegito Kernel (Modified)
+
+https://github.com/nikitsharma15/Vegito-A6020
+
+Other Kernel's
+https://github.com/RaphaelFrajuca/android_kernel_k5_plus
+https://github.com/impulsar/android_kernel_lenovo_msm8939v2
+
+Device Specifics
+----------------
+
+Guides
+^^^^^^
+
+Special boot modes
+
+    Recovery: With the device powered off, hold Volume Up + Volume Down and Power.
+
+    Download: With the device powered off, hold Volume Down + Power.
+
+https://wiki.lineageos.org/devices/A6020/install
+
+Developer Info
+^^^^^^^^^^^^^^
+
+https://forum.xda-developers.com/k5-plus
+
+Useful Resources
+^^^^^^^^^^^^^^^^^^
+
+https://forum.xda-developers.com/k5-plus/development/kernel-custom-kernel-lenovo-vibe-k5-plus-t3500297
+https://forum.xda-developers.com/k5-plus/development/kernel-vegito-kernel-lenovo-vibe-k5-t3512781
